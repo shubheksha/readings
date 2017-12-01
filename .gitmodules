@@ -1,3 +1,4 @@
 [submodule "themes/manis"]
   path = themes/manis
   url = https://github.com/shubheksha/manis-hugo-theme.git
+  
