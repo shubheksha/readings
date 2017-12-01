@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Readings in Systems</title>
+    <link>http://shubheksha.com/blog/</link>
+    <description>Recent content in Papers on Readings in Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017 &lt;a href=&#39;https://shubheksha.com&#39;&gt; Shubheksha Jalan &lt;/a&gt;</copyright>
+    
+	<atom:link href="http://shubheksha.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
