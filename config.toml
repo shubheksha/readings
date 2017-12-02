@@ -1,4 +1,4 @@
-baseURL = "http://shubheksha.com/"			# Site's URL
+baseURL = "http://readings.shubheksha.com/"			# Site's URL
 title = "Readings in Systems"								# Site's Name
 theme = "manis"
 copyright = "&copy; 2017 <a href='https://shubheksha.com'> Shubheksha Jalan </a>" # Copyright notice. Note: You can use HTML tag here
