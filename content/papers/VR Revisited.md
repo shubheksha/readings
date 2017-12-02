@@ -1,6 +1,6 @@
 +++
 title = "Viewstamped Replication Revisited"
-description = "TThis article will distill the contents of the academic paper Viewstamped Replication Revisited by Barbara Liskov and James Cowling. "
+description = "This article will distill the contents of the academic paper Viewstamped Replication Revisited by Barbara Liskov and James Cowling. "
 tags = [
     "consensus",
     "replication",
