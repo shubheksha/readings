@@ -1,9 +1,9 @@
-baseURL = "http://readings.shubheksha.com/"			# Site's URL
+baseURL = "http://readings.shubheksha.com/"					# Site's URL
 title = "Readings in Systems"								# Site's Name
 theme = "manis"
 copyright = "&copy; 2017 <a href='https://shubheksha.com'> Shubheksha Jalan </a>" # Copyright notice. Note: You can use HTML tag here
 pluralizeListTitles = false
-paginate = 10								# Minimum number of item before paginate navigation show up
+paginate = 7								# Minimum number of item before paginate navigation show up
 canonifyURL = true
 disqusShortname = ""                        # Your disqus shortname
 
@@ -38,6 +38,7 @@ disqusShortname = ""                        # Your disqus shortname
 	email = "hi@shubheksha.com"
 	github = "https://github.com/shubheksha/"
 	twitter = "https://twitter.com/ScribblingOn"
+	medium = "https://medium.com/@shubheksha/"
 
 
 # Language Configuration
