@@ -20,7 +20,7 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description> {{ .Summary | safeHTML }}</description>
-      {{ `<content:encoded type="html"><![CDATA` | safeHTML }}[{{ .Content }}]]></content:encoded>
+      {{ `<content type="html"><![CDATA` | safeHTML }}[{{ .Content }}]]></content>
     </item>
     {{ end }}
   </channel>
